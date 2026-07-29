@@ -1,0 +1,14 @@
+import HautevilleHouse.CCEmbeddingLemmaCanonicalLaneLean.AdmissibleClass
+import HautevilleHouse.CCEmbeddingLemmaCanonicalLaneLean.BridgeLemmas
+import HautevilleHouse.CCEmbeddingLemmaCanonicalLaneLean.GateLemmas
+import HautevilleHouse.CCEmbeddingLemmaCanonicalLaneLean.MathlibObjects
+import HautevilleHouse.CCEmbeddingLemmaCanonicalLaneLean.EmbeddingPackage
+import HautevilleHouse.CCEmbeddingLemmaCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace CCEmbeddingLemmaCanonicalLaneLean
+
+-- Root module for the CC Embedding Lemma canonical lane repository.
+
+end CCEmbeddingLemmaCanonicalLaneLean
+end HautevilleHouse
